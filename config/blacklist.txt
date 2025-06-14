@@ -1,3 +1,33 @@
 # 这是接口黑名单列表，符合关键字的接口将被拦截，一个关键字一行
 # This is the interface blacklist list, the interface matching the keyword will be blocked, one keyword line
 /audio/
+z.b.bkpcp.top
+p2.bdstatic.com
+epg.pw
+tp88.cn
+skype.serv00.net
+iptv.yjxfz.com
+live-hls-web-ajb.getaj.net
+live.goodiptv.club
+hc73k3dhwo5gfkt.wcetv.com
+stream1.freetv.fun
+zw9999.cnstream.top
+zsntlqj.xicp.net
+36.40.236.179
+112.101.78.50
+36.44.157.103
+113.218.229.47
+221.226.4.10
+58.221.214.82
+121.232.178.75
+116.9.204.242
+113.220.235.76
+222.169.85.8
+cdn.iptv8k.top
+piccpndks.v.kcdnvip.com
+playtv-live.ifeng.com
+zb.xmzb.xyz
+58.19.38.162
+113.25.252.226
+120.55.49.231
+139.196.151.191
