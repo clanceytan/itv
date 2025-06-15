@@ -1,11 +1,13 @@
 🕘️更新时间,#genre#
-2025-06-15 18:16:28,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8$订阅源
+2025-06-16 06:31:47,http://222.134.245.16:9901/tsfile/live/0015_1.m3u8$订阅源
 
 央视频道,#genre#
+CCTV-15,http://222.134.245.16:9901/tsfile/live/0015_1.m3u8$订阅源
 
 卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8$订阅源
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8$订阅源
+北京卫视,http://222.134.245.16:9901/tsfile/live/0122_1.m3u8$订阅源
 湖北卫视,http://satellitepull.cnr.cn/live/wx32hubws/playlist.m3u8$订阅源
 黑龙江卫视,http://satellitepull.cnr.cn/live/wx32hljws/playlist.m3u8$订阅源
 安徽卫视,http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8$订阅源
