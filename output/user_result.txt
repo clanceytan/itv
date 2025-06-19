@@ -1,8 +1,7 @@
 🕘️更新时间,#genre#
-2025-06-19 18:24:28,http://8.138.7.223/tv/dl/careryun.php?id=6$LR•IPV4『线路151』
+2025-06-20 06:34:51,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8$订阅源
 
 央视频道,#genre#
-CCTV-4,http://8.138.7.223/tv/dl/careryun.php?id=6$LR•IPV4『线路151』
 
 卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8$订阅源
@@ -16,7 +15,6 @@ CCTV-4,http://8.138.7.223/tv/dl/careryun.php?id=6$LR•IPV4『线路151』
 河北卫视,http://satellitepull.cnr.cn/live/wxhebws/playlist.m3u8$订阅源
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8$订阅源
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8$订阅源
-吉林卫视,http://103.96.72.37:18671/tv/jst.php$订阅源
 内蒙古卫视,http://satellitepull.cnr.cn/live/wx32nmgws/playlist.m3u8$订阅源
 青海卫视,http://satellitepull.cnr.cn/live/wx32qhws/playlist.m3u8$订阅源
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8$订阅源
