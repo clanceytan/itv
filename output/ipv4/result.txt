@@ -1,7 +1,8 @@
 🕘️更新时间,#genre#
-2025-07-06 06:31:36,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8$订阅源
+2025-07-07 18:21:36,http://8.138.7.223/tv/dl/douyincdn.php?id=5$LR•IPV4『线路166』
 
 央视频道,#genre#
+CCTV-5,http://8.138.7.223/tv/dl/douyincdn.php?id=5$LR•IPV4『线路166』
 
 卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8$订阅源
@@ -9,8 +10,8 @@
 湖北卫视,http://satellitepull.cnr.cn/live/wx32hubws/playlist.m3u8$订阅源
 安徽卫视,http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8$订阅源
 重庆卫视,http://satellitepull.cnr.cn/live/wxcqws/playlist.m3u8$订阅源
+重庆卫视,http://drive.mxmy.net:8888/udp/239.3.1.122:8160$订阅源
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8$订阅源
-贵州卫视,http://drive.mxmy.net:8888/udp/239.3.1.149:8076$订阅源
 海南卫视,http://satellitepull.cnr.cn/live/wxhainlyws/playlist.m3u8$订阅源
 河北卫视,http://satellitepull.cnr.cn/live/wxhebws/playlist.m3u8$订阅源
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8$订阅源
