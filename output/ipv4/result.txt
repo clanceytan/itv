@@ -1,8 +1,7 @@
 🕘️更新时间,#genre#
-2025-07-08 06:36:00,http://171.15.18.199:8180/TV00000000000000000013@HHZT$订阅源
+2025-07-09 18:19:37,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8$订阅源
 
 央视频道,#genre#
-CCTV-13,http://171.15.18.199:8180/TV00000000000000000013@HHZT$订阅源
 
 卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8$订阅源
