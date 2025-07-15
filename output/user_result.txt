@@ -1,10 +1,9 @@
 🕘️更新时间,#genre#
-2025-07-14 06:33:08,http://171.15.18.199:8180/TV00000000000000000018@HHZT$订阅源
+2025-07-15 18:19:32,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8$订阅源
 
 央视频道,#genre#
 
 卫视频道,#genre#
-湖南卫视,http://171.15.18.199:8180/TV00000000000000000018@HHZT$订阅源
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8$订阅源
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8$订阅源
 湖北卫视,http://satellitepull.cnr.cn/live/wx32hubws/playlist.m3u8$订阅源
@@ -12,7 +11,6 @@
 重庆卫视,http://satellitepull.cnr.cn/live/wxcqws/playlist.m3u8$订阅源
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8$订阅源
 海南卫视,http://satellitepull.cnr.cn/live/wxhainlyws/playlist.m3u8$订阅源
-海南卫视,http://171.15.18.199:8180/TV00000000000000000028@HHZT$订阅源
 河北卫视,http://satellitepull.cnr.cn/live/wxhebws/playlist.m3u8$订阅源
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8$订阅源
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8$订阅源
@@ -20,7 +18,6 @@
 青海卫视,http://satellitepull.cnr.cn/live/wx32qhws/playlist.m3u8$订阅源
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8$订阅源
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8$订阅源
-山西卫视,http://171.15.18.199:8180/TV00000000000000000038@HHZT$订阅源
 四川卫视,http://satellitepull.cnr.cn/live/wxscws/playlist.m3u8$订阅源
 深圳卫视,http://satellitepull.cnr.cn/live/wxszws/playlist.m3u8$订阅源
 西藏卫视,http://satellitepull.cnr.cn/live/wxxzws/playlist.m3u8$订阅源
