@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-08-02 06:32:57,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8$订阅源
+2025-08-03 18:18:29,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8$订阅源
 
 央视频道,#genre#
 
