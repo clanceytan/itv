@@ -1,7 +1,8 @@
 🕘️更新时间,#genre#
-2025-08-15 18:20:00,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8$订阅源
+2025-08-16 06:30:53,http://push-rtmp-hs-spe-f5.douyincdn.com/live/fhtv_cctv5p.flv$订阅源
 
 央视频道,#genre#
+CCTV-5+,http://push-rtmp-hs-spe-f5.douyincdn.com/live/fhtv_cctv5p.flv$订阅源
 
 卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8$订阅源
@@ -14,6 +15,7 @@
 河北卫视,http://satellitepull.cnr.cn/live/wxhebws/playlist.m3u8$订阅源
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8$订阅源
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8$订阅源
+江西卫视,http://drive.mxmy.net:8888/udp/239.3.1.123:8164$订阅源
 内蒙古卫视,http://satellitepull.cnr.cn/live/wx32nmgws/playlist.m3u8$订阅源
 青海卫视,http://satellitepull.cnr.cn/live/wx32qhws/playlist.m3u8$订阅源
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8$订阅源
