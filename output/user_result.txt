@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-08-29 18:19:05,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8$订阅源
+2025-08-30 06:28:13,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8$订阅源
 
 央视频道,#genre#
 
@@ -17,7 +17,6 @@
 内蒙古卫视,http://satellitepull.cnr.cn/live/wx32nmgws/playlist.m3u8$订阅源
 青海卫视,http://satellitepull.cnr.cn/live/wx32qhws/playlist.m3u8$订阅源
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8$订阅源
-陕西卫视,http://8.134.110.147:5300/?id=sxws$订阅源
 四川卫视,http://satellitepull.cnr.cn/live/wxscws/playlist.m3u8$订阅源
 深圳卫视,http://satellitepull.cnr.cn/live/wxszws/playlist.m3u8$订阅源
 西藏卫视,http://satellitepull.cnr.cn/live/wxxzws/playlist.m3u8$订阅源
