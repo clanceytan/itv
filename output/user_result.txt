@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-20 06:28:59,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8$订阅源
+2026-01-21 18:18:43,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8$订阅源
 
 央视频道,#genre#
 
@@ -8,6 +8,7 @@
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8$订阅源
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8$订阅源
 湖北卫视,http://satellitepull.cnr.cn/live/wx32hubws/playlist.m3u8$订阅源
+黑龙江卫视,http://tvlist.top/jd/index.php?id=hljws&qt=183.224.122.114:8014$订阅源
 安徽卫视,http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8$订阅源
 重庆卫视,http://satellitepull.cnr.cn/live/wxcqws/playlist.m3u8$订阅源
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8$订阅源
