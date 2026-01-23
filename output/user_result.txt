@@ -1,8 +1,7 @@
 🕘️更新时间,#genre#
-2026-01-23 18:16:26,http://tvlist.top/jd/index.php?id=cctv15&qt=183.224.122.114:8014$订阅源
+2026-01-24 06:26:03,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8$订阅源
 
 央视频道,#genre#
-CCTV-15,http://tvlist.top/jd/index.php?id=cctv15&qt=183.224.122.114:8014$订阅源
 
 卫视频道,#genre#
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8$订阅源
@@ -15,8 +14,8 @@ CCTV-15,http://tvlist.top/jd/index.php?id=cctv15&qt=183.224.122.114:8014$订阅�
 海南卫视,http://satellitepull.cnr.cn/live/wxhainlyws/playlist.m3u8$订阅源
 河北卫视,http://satellitepull.cnr.cn/live/wxhebws/playlist.m3u8$订阅源
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8$订阅源
-吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8$订阅源
 吉林卫视,http://tvlist.top/jd/index.php?id=jlws&qt=183.224.122.114:8014$订阅源
+吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8$订阅源
 内蒙古卫视,http://satellitepull.cnr.cn/live/wx32nmgws/playlist.m3u8$订阅源
 青海卫视,http://satellitepull.cnr.cn/live/wx32qhws/playlist.m3u8$订阅源
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8$订阅源
