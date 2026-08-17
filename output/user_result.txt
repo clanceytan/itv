@@ -1,11 +1,7 @@
 🕘️更新时间,#genre#
-2026-08-16 06:39:49,http://139.214.181.142:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
+2026-08-17 18:27:38,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8$订阅源
 
 央视频道,#genre#
-CCTV-1,http://139.214.181.142:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-CCTV-2,http://139.214.181.174:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-CCTV-5+,http://139.214.181.142:9901/tsfile/live/1067_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-CCTV-6,http://139.214.181.142:9901/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 
 卫视频道,#genre#
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8$订阅源
